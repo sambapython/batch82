@@ -1,0 +1,32 @@
+1)programing language/ scripting language
+
+
+js-> scripting
+java->programing
+c->programing
+python->
+--------------------------------------------
+c-> programing language
+a.c--> compile-->machine understandable code-> run it--> output
+to compile a.c file, c language should be installed in our machine.
+After compilation, to execute machin understandable code. does c language installtion required in the machine? NO
+
+
+python->
+python-> a.py-> output
+python->a.py
+compile the code->(byte code) store it cache(RAM)-> run that(bytecode)-> output
+
+python -m py_compile first.py. this command only compiles the code. it will not run the code.
+
+the byte code, can not directly understand by system without python.
+
+
+
+2)develop apps
+3) analyze data
+4)opensource
+5)oops
+6)threading
+7) multiprocessing
+8) platform independent.
